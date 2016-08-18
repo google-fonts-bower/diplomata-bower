@@ -1,0 +1,17 @@
+{
+    "name": "diplomata-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/diplomata-bower.git"
+    },
+    "description": "Diplomata font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
